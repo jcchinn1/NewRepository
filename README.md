@@ -1,2 +1,4 @@
-# NewRepository
-My personal repositirt
+# About Me
+My personal repository
+
+
